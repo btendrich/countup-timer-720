@@ -1,2 +1,2 @@
 # countup-timer-720
-full screen timer controlled via orc
+full screen timer controlled via OSC
